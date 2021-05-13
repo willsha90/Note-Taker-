@@ -8,8 +8,6 @@ const PORT = process.env.PORT || 3000;
 app.use(express.static("public"));
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
-// allows us to recieve data from post requ and retrieve data from body
-// app.use(bodyParser.json());
 
 app.get("/",(req,res)=>{
     res.sendFile(path.join(__dirname,"./public/index.html"));        
