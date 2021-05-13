@@ -6,3 +6,5 @@ We were tasked with using a JSON file that stores and retrieves notes using the 
 Deployed application:
 https://ws-notetaker.herokuapp.com/
 
+<img src="Assets\Homepage.JPG">
+<img src="Assets\Note-Taker.JPG">
