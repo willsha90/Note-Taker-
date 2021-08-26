@@ -1,10 +1,26 @@
-# Note-Taker-
-The purpose of this application is a note-taker where the user has the ability to write and save notes. This application utilizes CSS, HTML, Javascript and Express JS.
+budgie
+License: MIT
 
-We were tasked with using a JSON file that stores and retrieves notes using the file safety module. A create and read API routes were created to help the user add new notes and return it to the client.  
+Description
+Budgie is a progressive web app that allows the user to track their budget online using a mongo database and offline using indexedDB. The app uses a cache first retrieval strategy saving bandwidth and allows the user access to their data and update their data while offline.
 
-Deployed application:
-https://ws-notetaker.herokuapp.com/
+Table of Contents
+Installation
+Usage
+License
+Questions
+Installation
+Clone repo
+npm i
+Usage
+npm start
 
-<img src="Assets\Homepage.JPG">
-<img src="Assets\Note-Taker.JPG">
+License
+This project is distrubuted under the following licenses:
+
+License: MIT
+
+Questions
+Github: jlamonade
+
+Email: nyjasonlam@gmail.com
